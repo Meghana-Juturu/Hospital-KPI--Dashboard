@@ -30,7 +30,8 @@ Spot trends in hospital visits across gender and age groups.
 
 The dashboard is fully interactive, allowing users to explore hospital data dynamically. By selecting different filters (e.g., Month, Department, or Patient Age), the entire dashboard updates accordingly, providing deeper insights into hospital performance trends.
 
-📂 Project Structure
+## 📂 Project Structure
+
 
 /Hospital-KPI-Dashboard
 │── 📂 Data
@@ -40,7 +41,6 @@ The dashboard is fully interactive, allowing users to explore hospital data dyna
 │── 📂 Screenshots
 │   ├── dashboard_preview.png  (Dashboard screenshot)
 │── 📜 README.md  (Project documentation)
-│── 📜 LICENSE (Optional)
 
 🛠 Technologies Used
 
