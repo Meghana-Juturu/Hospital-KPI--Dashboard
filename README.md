@@ -66,7 +66,7 @@ Adjust Patient Age: Selecting a specific age range refines the insights for that
 
 Analyze the updated visualizations and trends dynamically.
 
-📷 Screenshot
+📷 Screenshots
 
 
 
