@@ -2,36 +2,83 @@
 
 🏥 About the Project
 
-Healthcare is a rapidly evolving field, and data-driven insights are transforming the way hospitals operate. This Power BI dashboard is designed to help healthcare professionals, administrators, and analysts make informed decisions by visualizing key hospital performance metrics.
+This Power BI dashboard provides actionable insights into hospital emergency room (ER) operations by analyzing patient trends, wait times, department referrals, and patient satisfaction. It enables hospital administrators and healthcare professionals to identify key areas of improvement and optimize resources efficiently.
 
-With this dashboard, you can:
+📋 About the Dataset
 
-✅ Monitor Total Patient Admissions over different periods.
+The Hospital ER Dataset contains 9,216 emergency room (ER) patient records. It includes demographic details, admission data, department referrals, patient wait times, and satisfaction scores. This dataset helps analyze patient flow, department efficiency, and patient experience in a hospital setting.
 
-✅ Track Average Patient Wait Times and identify bottlenecks.
+🗂 Key Features
 
-✅ Evaluate Patient Satisfaction Scores to improve healthcare services.
+Patient ID: Unique identifier for each patient.
 
-✅ Analyze Department-wise Patient Distribution to optimize resource allocation.
+Admission Date & Time: Timestamp of when the patient was admitted.
 
-✅ Understand Gender and Monthly Trends to spot seasonal variations in patient inflow.
+Gender & Age: Demographic details of the patient.
 
-🔍 Why This Dashboard Matters?
+Race: Ethnic background of the patient.
 
-Hospitals handle vast amounts of data daily. This dashboard transforms raw data into actionable insights, allowing stakeholders to:
+Department Referral: The hospital department the patient was referred to.
 
-Improve operational efficiency by identifying high-traffic periods.
+Admission Flag: Indicates whether the patient was officially admitted or treated as an outpatient.
 
-Enhance patient experience by addressing long wait times.
+Satisfaction Score: A score (0-10) representing how satisfied the patient was with their visit.
 
-Streamline department resource management with data-driven planning.
+Wait Time (Minutes): The duration a patient waited before receiving care.
 
-Spot trends in hospital visits across gender and age groups.
+Case Manager Count: Number of case managers assigned to the patient.
 
-The dashboard is fully interactive, allowing users to explore hospital data dynamically. By selecting different filters (e.g., Month, Department, or Patient Age), the entire dashboard updates accordingly, providing deeper insights into hospital performance trends.
+📊 Key Findings & Insights
 
-## 📂 Project Structure
+Below are the insights obtained using Power BI, where different slicers were applied to examine patient trends, department efficiency, and satisfaction levels.
 
+1️⃣ Peak ER Visits
+
+The highest ER visits were recorded in August, indicating seasonal spikes in patient flow.
+
+This could be due to seasonal diseases or increased accident rates during that time.
+
+🖼 Screenshot: 
+
+2️⃣ Most Common Department Referrals
+
+Neurology & General Practice had the highest patient referrals.
+
+Orthopedics & Cardiology also had a significant number of patients.
+
+🖼 Screenshot: 
+
+💡 Actionable Insight: These departments may require additional staffing and resources to handle patient load effectively.
+
+3️⃣ Most Affected Age Group
+
+Older Adults (51-65 years) had the highest number of ER visits.
+
+Middle-Aged Adults (36-50 years) were the second most affected.
+
+🖼 Screenshot: 
+
+💡 Actionable Insight: Hospitals should focus on preventive care programs targeting older adults to reduce ER visits.
+
+4️⃣ Departments with the Longest Wait Time
+
+Neurology had the longest average patient wait time at ~36.8 minutes.
+
+Other departments with high wait times include Orthopedics and Cardiology.
+
+🖼 Screenshot: 
+
+💡 Actionable Insight: Optimizing patient triage and scheduling could reduce wait times and improve patient satisfaction.
+
+🚀 Future Work & Improvements
+
+Integrating real-time patient data for live analytics.
+
+Enhancing data analysis using SQL & Python.
+
+Adding machine learning to predict peak ER times and staffing needs.
+
+📂 Project Structure
 
 /Hospital-KPI-Dashboard
 │── 📂 Data
@@ -39,34 +86,14 @@ The dashboard is fully interactive, allowing users to explore hospital data dyna
 │── 📂 Dashboard
 │   ├── hospital_dashboard.pbix  (Power BI project file)
 │── 📂 Screenshots
-│   ├── dashboard_preview.png  (Dashboard screenshot)
+│   ├── Peak_ERvisits.png  (Peak ER visits by month)
+│   ├── Highest_DepartmentReferrals.png  (Most referred departments)
+│   ├── Most_Affected_Agegroup.png  (Age group analysis)
+│   ├── Highest_Avg_Waittime.png  (Departments with highest wait times)
 │── 📜 README.md  (Project documentation)
+│── 📜 LICENSE (Optional)
 
-🛠 Technologies Used
-
-Power BI for interactive dashboard creation
-
-Excel for initial data cleaning
-
-🚀 How to Use
-
-Download the hospital_dashboard.pbix file from the repository.
-
-Open it in Power BI Desktop.
-
-Load data and refresh to ensure the latest insights are displayed.
-
-Use the interactive slicers (filters) available in the dashboard:
-
-Select Month: Changing the month (e.g., selecting April) will update all visuals to reflect data from that month.
-
-Filter by Department: Choosing a department (e.g., Neurology) will show only the relevant patient statistics.
-
-Adjust Patient Age: Selecting a specific age range refines the insights for that group.
-
-Analyze the updated visualizations and trends dynamically.
-
-📷 Screenshots
+📷 Dashboard Overview:
 
 
 
@@ -80,9 +107,5 @@ This project is open-source and available under the MIT License.
 
 👤 Author
 
-Created by Meghana Juturu
-Connect with me on LinkedIn - www.linkedin.com/in/meghanajuturu
-
-
-
-
+Created by Meghanna Juturu
+Connect with me on LinkedIn 
