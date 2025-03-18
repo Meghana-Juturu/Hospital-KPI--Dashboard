@@ -66,7 +66,7 @@ Neurology had the longest average patient wait time at ~36.8 minutes.
 
 Other departments with high wait times include Orthopedics and Cardiology.
 
-🖼 Screenshot: 
+🖼 Screenshot: https://github.com/Meghana-Juturu/Hospital-KPI--Dashboard/blob/main/Screenshots/Highest_Avg_Waittime.png
 
 💡 Actionable Insight: Optimizing patient triage and scheduling could reduce wait times and improve patient satisfaction.
 
