@@ -38,7 +38,7 @@ The highest ER visits were recorded in August, indicating seasonal spikes in pat
 
 This could be due to seasonal diseases or increased accident rates during that time.
 
-🖼 Screenshot: 
+🖼 Screenshot: https://github.com/Meghana-Juturu/Hospital-KPI--Dashboard/blob/main/Screenshots/Peak_ERvisits.png
 
 2️⃣ Most Common Department Referrals
 
