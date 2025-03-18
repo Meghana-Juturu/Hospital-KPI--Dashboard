@@ -90,10 +90,13 @@ Adding machine learning to predict peak ER times and staffing needs.
 │   ├── Highest_DepartmentReferrals.png  (Most referred departments)
 │   ├── Most_Affected_Agegroup.png  (Age group analysis)
 │   ├── Highest_Avg_Waittime.png  (Departments with highest wait times)
+│   ├── Dashboard_preview.png  (Overall dashboard preview)
 │── 📜 README.md  (Project documentation)
-│── 📜 LICENSE (Optional)
 
-📷 Dashboard Overview:
+
+
+
+📷 Dashboard Overview: https://github.com/Meghana-Juturu/Hospital-KPI--Dashboard/blob/main/Screenshots/dashboard_preview.png
 
 
 
