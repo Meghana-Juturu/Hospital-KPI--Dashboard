@@ -46,7 +46,7 @@ Neurology & General Practice had the highest patient referrals.
 
 Orthopedics & Cardiology also had a significant number of patients.
 
-🖼 Screenshot: 
+🖼 Screenshot: https://github.com/Meghana-Juturu/Hospital-KPI--Dashboard/blob/main/Screenshots/Highest_DepartmentReferrals.png
 
 💡 Actionable Insight: These departments may require additional staffing and resources to handle patient load effectively.
 
