@@ -111,4 +111,4 @@ This project is open-source and available under the MIT License.
 👤 Author
 
 Created by Meghanna Juturu
-Connect with me on LinkedIn 
+Connect with me on LinkedIn www.linkedin.com/in/meghanajuturu
