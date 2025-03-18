@@ -56,7 +56,7 @@ Older Adults (51-65 years) had the highest number of ER visits.
 
 Middle-Aged Adults (36-50 years) were the second most affected.
 
-🖼 Screenshot: 
+🖼 Screenshot: https://github.com/Meghana-Juturu/Hospital-KPI--Dashboard/blob/main/Screenshots/Most_Affected_Agegroup.png
 
 💡 Actionable Insight: Hospitals should focus on preventive care programs targeting older adults to reduce ER visits.
 
